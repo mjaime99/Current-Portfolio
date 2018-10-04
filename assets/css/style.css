@@ -1,0 +1,25 @@
+body {
+  background-image: url(/Current-Portfolio/assets/images/background8.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer-container {
+  background: #343a40;
+  text-align: center;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;    
+}
+
+.btn {
+  background: #343a40 !important;
+  border: white !important;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 25vw;
+  object-fit: cover;
+}
